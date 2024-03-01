@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="Hola">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Contacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Contacto.java" afterDir="false" />
-    </list>
+    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="JavaDoc creado." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709312678398</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Comentarios en Agenda y Contacto hechos.">
+      <option name="closed" value="true" />
+      <created>1709314968919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709314968919</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JavaDoc creado.">
+      <option name="closed" value="true" />
+      <created>1709315019766</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709315019766</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +120,8 @@
     <MESSAGE value="La he liao" />
     <MESSAGE value="La he liao?" />
     <MESSAGE value="Hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
+    <MESSAGE value="Comentarios en Agenda y Contacto hechos." />
+    <MESSAGE value="JavaDoc creado." />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaDoc creado." />
   </component>
 </project>
