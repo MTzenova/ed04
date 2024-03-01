@@ -14,9 +14,9 @@ class Contacto {
     private List<String> phones;
 
     public Contacto(String name, String phone) {
-        this.name = name;
-        this.phones = new ArrayList<>();
-        this.phones.add(phone);
+        this.setName(name);
+        this.setPhones(new ArrayList<>());
+        this.getPhones().add(phone);
     }
 
     public String getName() {
@@ -25,5 +25,13 @@ class Contacto {
 
     public List<String> getPhones() {
         return this.phones;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setPhones(List<String> phones) {
+        this.phones = phones;
     }
 }
