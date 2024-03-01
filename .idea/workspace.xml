@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="Atributos de la clase Contacto encapsulados.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="Variable name cambiada de nombre por persona en la clase Contacto.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IAgenda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Contacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Contacto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,6 +50,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dam\IdeaProjects\ed04" />
       <recent name="C:\Users\dam\IdeaProjects\ed04\UT04_Act1_JavaDoc_Refactorización_GitHub" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -141,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709316595946</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Variable name cambiada de nombre por persona en la clase Contacto.">
+      <option name="closed" value="true" />
+      <created>1709316761948</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709316761948</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +164,7 @@
     <MESSAGE value="Nombre dela variable agenda cambiado a agendaContactos" />
     <MESSAGE value="Método initAgenda creado (refactorizado) en Main." />
     <MESSAGE value="Atributos de la clase Contacto encapsulados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atributos de la clase Contacto encapsulados." />
+    <MESSAGE value="Variable name cambiada de nombre por persona en la clase Contacto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Variable name cambiada de nombre por persona en la clase Contacto." />
   </component>
 </project>
