@@ -1,7 +1,12 @@
 package org.example;
 
 import java.util.*;
-
+/** Método Agenda
+ * @author Mónica Tzenova Ivanova
+ * @version 1.0
+ * @since 01/03/24
+ * sdfdsfsff
+ */
 public class Agenda {
     private List<Contacto> contacts; // Lista de Contacto
 
