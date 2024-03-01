@@ -3,6 +3,12 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
+/** Método Contacto
+ * @author Mónica Tzenova Ivanova
+ * @version 1.0
+ * @since 01/03/24
+ * @see Agenda
+ */
 class Contacto {
     private String name;
     private List<String> phones;
