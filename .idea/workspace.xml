@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="Variable name cambiada de nombre por persona en la clase Contacto.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IAgenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Agenda.java" afterDir="false" />
+    <list default="true" id="a3c10ea7-e609-4096-a7ae-b21e4f1a8700" name="Changes" comment="Interfaz de la clase Agenda, creada.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dam/IdeaProjects",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dam/IdeaProjects/UT04_Act1_JavaDoc_Refactorización_GitHub&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dam\IdeaProjects\ed04" />
@@ -151,8 +150,27 @@
       <option name="project" value="LOCAL" />
       <updated>1709316761948</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Interfaz de la clase Agenda, creada.">
+      <option name="closed" value="true" />
+      <created>1709317120502</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709317120502</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fsdfsdfsfsf" />
@@ -165,6 +183,7 @@
     <MESSAGE value="Método initAgenda creado (refactorizado) en Main." />
     <MESSAGE value="Atributos de la clase Contacto encapsulados." />
     <MESSAGE value="Variable name cambiada de nombre por persona en la clase Contacto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Variable name cambiada de nombre por persona en la clase Contacto." />
+    <MESSAGE value="Interfaz de la clase Agenda, creada." />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaz de la clase Agenda, creada." />
   </component>
 </project>
